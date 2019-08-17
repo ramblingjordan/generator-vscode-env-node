@@ -7,14 +7,19 @@
 4. Create `README.md`
     - `name`
     - `description`
+    - `node-version`
 5. Create `Docker` file
+
+
 
 - `git commit`
 - Make github project
     - hub.github.com
 - Push to github
 
+
 ## Input
 
 - `name`
 - `description`
+- `node-version`

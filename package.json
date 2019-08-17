@@ -1,0 +1,14 @@
+{
+  "name": "generator-vscode-env-node",
+  "version": "0.1.0",
+  "description": "VSCode Node Development Environment Generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
