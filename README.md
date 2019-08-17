@@ -7,10 +7,11 @@
 4. Create `README.md`
     - `name`
     - `description`
-
+5. Create `Docker` file
 
 - `git commit`
 - Make github project
+    - hub.github.com
 - Push to github
 
 ## Input
