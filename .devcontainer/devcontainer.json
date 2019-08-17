@@ -1,13 +1,8 @@
 {
-	"name": "Node Development Environment",
+	"name": "VSCode Node Development Environment Generator",
 	"dockerFile": "Dockerfile",
-	"appPort": 3000,
-	"extensions": [
-		"dbaeumer.vscode-eslint"
-	],
+	"extensions": [],
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash"
-	},
-	"postCreateCommand": "npm install",
-	"runArgs": [ "-u", "node" ]
+	}
 }
